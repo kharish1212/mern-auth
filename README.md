@@ -1,17 +1,22 @@
 <div align="center">
 
-# 🔐 MERN Authentication System  
-A complete Authentication + Email OTP + Password Reset system built using the **MERN Stack**  
+# 🔐 MERN Authentication System
 
-![Stars](https://img.shields.io/github/stars/kharish1212/mern-auth?style=flat&color=yellow)
-![Forks](https://img.shields.io/github/forks/kharish1212/mern-auth?style=flat&color=lightblue)
-![Issues](https://img.shields.io/github/issues/kharish1212/mern-auth)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Made With Love](https://img.shields.io/badge/Made%20with-❤️-red)
+A complete Authentication + Email OTP + Password Reset system built using the **MERN Stack**
+
+[![Stars](https://img.shields.io/github/stars/kharish1212/mern-auth?style=flat-square&color=yellow)](https://github.com/kharish1212/mern-auth/stargazers)
+[![Forks](https://img.shields.io/github/forks/kharish1212/mern-auth?style=flat-square&color=lightblue)](https://github.com/kharish1212/mern-auth/network/members)
+[![Issues](https://img.shields.io/github/issues/kharish1212/mern-auth?style=flat-square)](https://github.com/kharish1212/mern-auth/issues)
+![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![Made With Love](https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square)
 
 </div>
 
 ---
+
+
+
+
 
 ## 🎥 Demo (GIF)
 _Add your demo GIF here (example below):_
