@@ -138,7 +138,7 @@ server/config/emailTemplates.js
 **Harish K**  
 🔥 MERN Stack Developer  
 🌐 GitHub: https://github.com/kharish1212  
-📩 Email: (add your contact here)
+📩 Email: kharish12122003@gmail.com
 
 ---
 
